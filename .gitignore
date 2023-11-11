@@ -1,0 +1,5 @@
+python/pytest/.pytest_cache/*
+python/pytest/.vscode/*
+python/pytest/__pycache__
+python/pytest/testcase/__pycache__/*
+python/pytest/testcase/*/__pycache__/*
